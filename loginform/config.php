@@ -1,5 +1,5 @@
 <?php
-    $db_user = "root";
+    $db_user = "";
     $db_pass = "";
     $db_name = "loginform";
 
